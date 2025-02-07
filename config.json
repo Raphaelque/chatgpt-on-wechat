@@ -1,0 +1,43 @@
+{
+  "open_ai_api_key": "sk-ltqglkuoyvszdntnfgmmuhkznciypelowwpiuqyyxdachwul",
+  "open_ai_api_base": "https://api.siliconflow.cn/v1/chat/completions",
+  "model": "Pro/deepseek-ai/DeepSeek-R1",
+  "debug": true,
+  "gemini_api_key":"AIzaSyBRUb1YdwTP_YAT2tykyDFD2R5huzz1680",
+  "channel_type": "wx",
+  "proxy": "",
+  "hot_reload": true,
+  "single_chat_prefix": [
+    ""
+  ],
+  "single_chat_reply_prefix": "[小Q]",
+  "group_chat_prefix": [
+    "@小Q",
+    "@小q"
+  ],
+  "no_need_at": true,
+  "group_name_white_list": [
+    "ALL_GROUP"
+  ],
+  "group_chat_in_one_session": [
+    "ALL_GROUP"
+  ],
+  "image_create_prefix": [
+    "画"
+  ],
+  "speech_recognition": false,
+  "group_speech_recognition": false,
+  "voice_reply_voice": false,
+  "conversation_max_tokens": 64000,
+  "expires_in_seconds": 3600,
+  "temperature": 0.7,
+  "top_p": 0.7,
+  "chat_time_module": false,
+  "chat_start_time": "00:00",
+  "chat_stop_time": "24:00",
+  "subscribe_msg": "感谢您的关注！\n这里是ChatGPT，可以自由对话。\n支持语音对话。\n支持图片输入。\n支C持图片输出，画字开头的消息将按要求创作图片。\n支持tool、角色扮演和文字冒险等丰富的插件。>",
+  "clear_memory_commands": ["#清除记忆"],
+  "use_linkai": false,
+  "linkai_api_key": "Link_orCPfETf8nMxNEWDFpHKX5EmUnm8xaaDQoNc8HeYC2",
+  "linkai_app_code": "default"
+}
